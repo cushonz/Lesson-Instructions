@@ -3,7 +3,7 @@
 Welcome to Wild Cat Code! 
 This is a directory of instructions for students to reference as an aid during Wild Cat code sessions.
 
-[!alt text](resources/class.jpg)
+[!alt_text](resources/class.jpg)
 
 # Goal
 
