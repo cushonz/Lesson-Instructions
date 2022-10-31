@@ -3,6 +3,8 @@
 Welcome to Wild Cat Code! 
 This is a directory of instructions for students to reference as an aid during Wild Cat code sessions.
 
+[!alt text](resources/class.jpg)
+
 # Goal
 
 Our Goal with Wild Cat code is to expose students to programming 
